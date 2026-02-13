@@ -120,11 +120,13 @@ Documentation is organized in `.kiro/specs/mediscribe-ai-copilot/`:
 
 ## License
 
-[Add your license here]
+Free to use
 
 ## Contact
 
-[Add your contact information]
+Subinjoshua.316@gmail.com
+https://github.com/subinjoshua
+subinjoshua.me
 
 ---
 
